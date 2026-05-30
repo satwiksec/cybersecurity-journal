@@ -34,15 +34,15 @@ Tor was originally designed by the U.S. Naval Research Laboratory for Anonymous 
 
 ## Boot Menu
 
-![Boot Menu](../images/tails-boot.jpeg)
+![Boot Menu](../tails-boot.jpeg)
 
 ## Welcome Screen
 
-![Welcome](../images/tails-welcome.jpeg)
+![Welcome](../tails-welcome.jpeg)
 
 ## Tor Connection
 
-![Tor Connection](../images/tor-connect.jpeg)
+![Tor Connection](../tor-connect.jpeg)
 
 
 
