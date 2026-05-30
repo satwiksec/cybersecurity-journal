@@ -20,15 +20,15 @@ Special pros of tails:
 OPSEC Lessons
 opsec is not a script or a checklist to follow. It is the mindset that assumes that the internet is tracing everything. It involves looking at your own system and operations with a exploiter's perspective.
 
-- stylometry(Behavioral Fingerprinting)
+- stylometry(Behavioral Fingerprinting): 
 Even with the IP address hidden, a person can be tracked by comparing the vocabulary, typing style, common phrases used online with a public profile, liked LinkedIn with high accuracy.
 
-- Login
+- Login: 
 Even after using anonymity tools like tails, logging into profiles like that of Google or LinkedIn, etc, completely exposes the person.
 
 
 
-Common Misconceptions
+Common Misconceptions: 
 It is inherently illicit or criminal. 
 Tor was originally designed by the U.S. Naval Research Laboratory for Anonymous government communications. Today, it is used around the world by journalists, human rights whistleblowers, and citizens bypassing censorship.
 
