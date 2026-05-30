@@ -21,11 +21,9 @@ OPSEC Lessons
 opsec is not a script or a checklist to follow. It is the mindset that assumes that the internet is tracing everything. It involves looking at your own system and operations with a exploiter's perspective.
 
 stylometry(Behavioral Fingerprinting)
-
 Even with the IP address hidden, a person can be tracked by comparing the vocabulary, typing style, common phrases used online with a public profile, liked LinkedIn with high accuracy.
 
 Login
-
 Even after using anonymity tools like tails, logging into profiles like that of Google or LinkedIn, etc, completely exposes the person.
 
 
