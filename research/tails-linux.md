@@ -18,7 +18,6 @@ Special pros of tails:
 
 
 **OPSEC Lessons**
-
 opsec is not a script or a checklist to follow. It is the mindset that assumes that the internet is tracing everything. It involves looking at your own system and operations with a exploiter's perspective.
 
 - **stylometry(Behavioral Fingerprinting):**
